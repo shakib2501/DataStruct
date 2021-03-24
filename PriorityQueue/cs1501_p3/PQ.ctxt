@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PQ
+comment1.params=
+comment1.target=PQ()
+comment2.params=o\ comp
+comment2.target=void\ add(java.lang.Object,\ java.util.Comparator)
+comment3.params=comp
+comment3.target=java.lang.Object\ remove(PQ.CarComparator)
+comment4.params=index\ comp
+comment4.target=void\ shiftup(int,\ java.util.Comparator)
+comment5.params=index\ comp
+comment5.target=void\ shiftdown(int,\ PQ.CarComparator)
+comment6.params=
+comment6.target=java.lang.Object\ offer()
+comment7.params=
+comment7.target=int\ size()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
